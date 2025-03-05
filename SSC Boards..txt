@@ -1,0 +1,32 @@
+<html>
+   <head>
+      <title>
+       Class-10 Boards (SSC)
+      </title>
+   </head>
+   <body>
+   <center>
+   <h1><b>Class- 10 Pre boards Subject: Social Science</b></h1>
+   </center> 
+   <h1><b><u>Please read the rules before starting with your examination.</u></b></h1><br>
+   1)Only use Black/ blue ball point pen through out the examination, using any other pen will lead to a deduction of 1/2 marks on the scene.<br>
+   2)Only start if the invigilator allows to.<br>
+   3)The duration of the exam if 1 hour. This time is sufficient for the students to complete your papers.<br>
+   4)The students should carry a transparent pencil case, a transparent clip board and the other basic amenities.<br>
+   5)Fill the OMR sheet accordingly and do check for any king of stains, if found; instantly hand it over to the invigilator and ask for a new OMR sheet.<br>
+   6)All the basic things like Roll No., Phone number, email ,etc. should be filled before submission AND IF NOT FOUND THEN, IF MIGHT LEAD TO THE CANCELLATION OF THE PAPER.<br>
+   7)Check your papers thoroughly before submission.<br>
+   8)All the other sheets required should be signed by the invigilator.<br>
+   9)Any paper found not signed by the invigilator will lead to the cancellation of the paper instantly.<br>
+   10)IF ANY MODE OF CHEATING IS FOUND, IT CAN LEAD TO CANCELLATOR OF PAPER, SUSPENTION AND IN FUTHER CASE A TRANSFER CERTIFICATE.<br>
+   11)The description of paper:<br>
+          a)Section A is of 60 MCQs, each 1 mark, an OMR sheet will be handed where all the answers are to be marked.<br>
+          b)Section B is of 5 short answer type questions each 1 mark, the answers are to be written on the rules pages attached to the OMR sheets.<br>
+          c)Section C is of 5 long answer question each 3 marks.<br>
+   12)All questions are compulsory, the full marks is 80.<br>
+   link to examination :<br>
+   <button onClick="document.location='https://docs.google.com/forms/d/e/1FAIpQLScRmf71N1orJt5AkgJ5W5zAkvR3p6tpf-Y67ruNmsuWrJ2xiQ/viewform?usp=header'">Exam</button>
+   
+   <center><h1><b<u>Best of luck to all!!<u></b></h1></center>
+   </body>
+</html>
